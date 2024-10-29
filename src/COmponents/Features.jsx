@@ -35,7 +35,7 @@ export default class Features extends Component {
               <i className="icofont icofont-medical-sign-alt" />
             </div>
             <h3>Enriched Pharmecy</h3>
-            <p>Lorem ipsum sit, consectetur adipiscing elit. Maecenas mi quam vulputate.</p>
+            <p>Lorem ipsum sit, consectetur adipiscing elit. Maecenas mi quam accessible.</p>
           </div>
           {/* End Single features */}
         </div>
@@ -46,7 +46,7 @@ export default class Features extends Component {
               <i className="icofont icofont-stethoscope" />
             </div>
             <h3>Medical Treatment</h3>
-            <p>Lorem ipsum sit, consectetur adipiscing elit. Maecenas mi quam vulputate.</p>
+            <p>Lorem ipsum sit, consectetur adipiscing elit. Maecenas mi quam accessible.</p>
           </div>
           {/* End Single features */}
         </div>

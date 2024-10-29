@@ -11,7 +11,7 @@ export default class CallToAction extends Component {
         <div className="col-lg-12 col-md-12 col-12">
           <div className="content">
             <h2>Do you need Emergency Medical Care? Call @ 1234 56789</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque porttitor dictum turpis nec gravida.</p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque porttitor dictum turpis nec.</p>
             <div className="button">
               <a href="#" className="btn">Contact Now</a>
               <a href="#" className="btn second">Learn More<i className="fa fa-long-arrow-right" /></a>
