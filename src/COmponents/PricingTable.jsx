@@ -12,7 +12,7 @@ export default class PricingTable extends Component {
           <div className="section-title">
             <h2>We Provide You The Best Treatment In Resonable Price</h2>
             <img src="img/section-img.png" alt="#" />
-            <p>Lorem ipsum dolor sit amet consectetur adipiscing elit praesent aliquet. pretiumts</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipiscing elit praesent aliquet.</p>
           </div>
         </div>
       </div>
