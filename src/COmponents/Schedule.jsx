@@ -35,7 +35,7 @@ export default class Schedule extends Component {
                 <div className="single-content">
                   <span>Fusce Porttitor</span>
                   <h4>Doctors Timetable</h4>
-                  <p>Lorem ipsum sit amet consectetur adipiscing elit. Vivamus et erat in lacus convallis sodales.</p>
+                  <p>Lorem ipsum sit amet consectetur adipiscing elit. Vivamus et erat in lacus convallis.</p>
                   <a href="#">LEARN MORE<i className="fa fa-long-arrow-right" /></a>
                 </div>
               </div>
