@@ -59,7 +59,7 @@ export default class BlogArea extends Component {
               <div className="news-content">
                 <div className="date">05 Jan, 2020</div>
                 <h2><a href="blog-single.html">We provide highly business soliutions.</a></h2>
-                <p className="text">Lorem ipsum dolor a sit ameti, consectetur adipisicing elit, sed do eiusmod tempor incididunt sed do incididunt sed.</p>
+                <p className="text">Lorem ipsum dolor a sit ameti, consectetur adipisicing elit, sed do eiusmod tempor incididunt.</p>
               </div>
             </div>
           </div>
