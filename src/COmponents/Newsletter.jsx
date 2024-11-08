@@ -12,7 +12,7 @@ export default class Newsletter extends Component {
           {/* Start Newsletter Form */}
           <div className="subscribe-text ">
             <h6>Sign up for newsletter</h6>
-            <p className>Cu qui soleat partiendo urbanitas. Eum aperiri indoctum eu,<br /> homero alterum.</p>
+            <p className>Cu qui soleat partiendo urbanitas. Eum aperiri eu,<br /> homero alterum.</p>
           </div>
           {/* End Newsletter Form */}
         </div>
