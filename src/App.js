@@ -20,9 +20,9 @@ import Footer from './COmponents/Footer';
 function App() {
   return (
     <div className="App">
-     <Loader/>``
+     {/* <Loader/> */}
      <Header/>
-     <Slider/>
+     {/* <Slider/> */}
      <Schedule/>
      <Features/>
      <FunFacts/>
